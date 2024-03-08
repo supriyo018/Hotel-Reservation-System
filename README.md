@@ -26,7 +26,7 @@ Setup :
 
 Clone this repository to your local machine:
 
-git clone https://github.com/prabhatthakuryt/Hotel-Reservation-System.git
+git clone https:https://github.com/supriyo018/Hotel-Reservation-System
 
 Configure your MySQL database settings in the HotelReservationSystem.java file:
 
